@@ -1,6 +1,4 @@
-# VIGENERE-CIPHER
-## NAME:N.Navya sree
-## REG.NO:212223040138
+
 ## EX. NO: 1(D)
  
 
